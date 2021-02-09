@@ -71,3 +71,5 @@ def global_name():
 
 global_name()
 print(name)
+
+# functions part II - 1. Introduction and args
