@@ -4,7 +4,7 @@ def fav_colors(**kwargs):
         print(f"{person}'s favorite color is {color}")
 
 
-fav_colors(colt="purple", ruby="red", ethel="teal"
+fav_colors(colt="purple", ruby="red", ethel="teal")
 
 def special_greeting(**kwargs):
     if "David" in kwargs and kwargs["David"] == "special":
